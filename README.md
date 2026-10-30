@@ -1,10 +1,10 @@
 # Satya Mahesh Indugula
 
-**Software Engineer · Java Backend Developer · Freelance Full-Stack Developer**
+**Software Engineer · Java Backend Developer**
 
-I build backend APIs and web applications, and I help businesses turn practical requirements into software solutions. I’m the founder of **ismool — Web Development & Digital Solutions**.
+I’m a software engineer with approximately 2.6 years of experience, focused on Java backend development, REST APIs, and web applications.
 
-My engineering focus is Java backend development with Spring Boot and Quarkus, REST APIs, data integrations, distributed systems, and real-time analytics. Through ismool, I offer website development and software services for businesses.
+My backend interests include service design, system integrations, event-driven processing, distributed systems, and real-time analytics. I work with Java, Spring Boot, and Quarkus to turn application requirements into backend services.
 
 ## Technical background
 
@@ -18,12 +18,6 @@ My engineering focus is Java backend development with Spring Boot and Quarkus, R
 
 The repositories below show selected public learning work. They represent a subset of my technical background.
 
-## How I can help
-
-- **Websites and web applications:** business websites, responsive interfaces, and custom application features.
-- **Backend development:** Java services, REST APIs, and database integrations.
-- **Integrations and automation:** connecting systems and simplifying repeatable business workflows.
-
 ## Selected public projects
 
 | Project | What it demonstrates |
@@ -33,4 +27,4 @@ The repositories below show selected public learning work. They represent a subs
 
 ## Connect
 
-[GitHub](https://github.com/SatyaMahesh889) · **ismool — Web Development & Digital Solutions**
+[LinkedIn](https://www.linkedin.com/in/satya-mahesh-indugula93921/) · [GitHub](https://github.com/SatyaMahesh889)
